@@ -4,7 +4,9 @@
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ana-lydia-moreira-6a79571a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-darkpurple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<a>
+<img src="https://komarev.com/ghpvc/?username=analydiamoreira&style=flat-square&color=yellow
+
+
