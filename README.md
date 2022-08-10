@@ -33,4 +33,19 @@ I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBt
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lydia-moreira-6a79571a6/)  
 
-- ![Snake animation](https://github.com/analydiamoreira/analydiamoreira/blob/output/github-contribution-grid-snake.svg)
+### :fire: My Stats :
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=analydiamoreira&theme=tokyonight_duo)](https://git.io/streak-stats)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analydiamoreira&layout=compact&theme=tokyonight_duo)](https://github.com/analydiamoreira/github-readme-stats)
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40"/>&nbsp;
+  
+  - ![Snake animation](https://github.com/analydiamoreira/analydiamoreira/blob/output/github-contribution-grid-snake.svg)
+
+---
