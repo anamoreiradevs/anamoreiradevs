@@ -25,11 +25,12 @@
 
 I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="30"> from Brazil.
 
-- :telescope: I am studying programming since 2021.
+- :telescope: I have been studying programming since 2021.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring new ways.
 
 - :zap: In my free time, i study English by myself.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lydia-moreira-6a79571a6/)  
+
 - ![Snake animation](https://github.com/analydiamoreira/analydiamoreira/blob/output/github-contribution-grid-snake.svg)
