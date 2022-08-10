@@ -8,7 +8,7 @@
   </a>
 </div>
 <div id="badges" align="center">
- <img src="https://komarev.com/ghpvc/?username=your-github-analydiamoreira&style=flat-square&color=yellow" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=analydiamoreira&style=flat-square&color=yellow" alt=""/>
 </div>
 
 <h1>
