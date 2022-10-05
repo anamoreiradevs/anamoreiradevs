@@ -33,7 +33,7 @@ I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBt
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-lydia-moreira-6a79571a6/)  
 
-### :fire: My Stats :
+###  :fire: My Stats :
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=analydiamoreira&theme=tokyonight_duo)](https://git.io/streak-stats)
