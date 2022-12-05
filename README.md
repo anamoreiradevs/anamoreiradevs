@@ -32,9 +32,9 @@ I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBt
 ###  :fire: My Stats :
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=analydiamoreira&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anamoreiradevs&theme=tokyonight_duo)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analydiamoreira&layout=compact&theme=tokyonight_duo)](https://github.com/analydiamoreira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analydiamoreira&layout=compact&theme=tokyonight_duo)](https://github.com/anamoreiradevs/github-readme-stats)
 
 
 
@@ -46,7 +46,7 @@ I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBt
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
                     
   
-  - ![Snake animation](https://github.com/analydiamoreira/analydiamoreira/blob/output/github-contribution-grid-snake.svg)
+  - ![Snake animation](https://github.com/anamoreiradevs/anamoreiradevs/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -71,7 +71,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: analydiamoreira
+          github_user_name: anamoreiradevs
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
