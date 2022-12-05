@@ -34,7 +34,7 @@ I am a programming student <img src="https://media.giphy.com/media/SYHz66JfYHbBt
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anamoreiradevs&theme=tokyonight_duo)](https://git.io/streak-stats)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analydiamoreira&layout=compact&theme=tokyonight_duo)](https://github.com/anamoreiradevs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anamoreiradevs&layout=compact&theme=tokyonight_duo)](https://github.com/anamoreiradevs/github-readme-stats)
 
 
 
